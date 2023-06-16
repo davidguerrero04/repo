@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="fpec3",
+    name="Ivmjh",
     version="0.1",
     license="MIT",
-    description="Cuestionario para reforzar tus conocimientos de python estilo juego trivia",
-    author="Franck Pérez C",
+    description="Inventariado de un almacen",
+    author="DAVID LUENGAS",
     packages=find_packages(),
-    url="https://github.com/franckp1/fpec3"
+    url="https://github.com/davidguerrero04/repo"
 
 )
